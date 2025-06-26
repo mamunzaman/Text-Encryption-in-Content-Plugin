@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Encrypt/Decrypt texts in content Shortcode
  * Description: Outputs encoded text, email and phone to hide from bots using a shortcode. HTML not allowed
- * Version: 1.0
+ * Version: 1.1
  * Author: Md mamunuzzaman
  * Text Domain: mm-encrypted-content
  */
